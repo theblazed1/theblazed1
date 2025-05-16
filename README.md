@@ -1,6 +1,7 @@
 # 👨💻 The Blazed One
 `19 • Gray Hat Hacker • Full-Stack Developer`  
-*Building (and breaking) things on the web*
+
+*"Ethics make hacking an art, not a crime"*
 
 ---
 
@@ -25,4 +26,3 @@
 
 ---
 
-*"Ethics make hacking an art, not a crime"*
