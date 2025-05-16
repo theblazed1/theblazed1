@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👨💻 The Blazed One
+`19 • Gray Hat Hacker • Full-Stack Developer`  
+*Building (and breaking) things on the web*
 
-<!--
-**theblazed1/theblazed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔥 Quick Facts  
+- 🛠️ Self-taught developer specializing in web apps & security  
+- ☁️ Runs a hosting service  
+- ♻️ Converts "herbs" into code    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Core Skills  
+**Frontend**: .net, Bootstrap, Wordpress  
+**Backend**: c/c++, Python, php  
+**Security**: Pentesting, Vulnerability Research, Network Analysis  
+**DevOps**: Docker  
+
+---
+
+### 🌟 Featured Projects  
+1. **F-BT** - Bluetooth DoS for the flipper zero using a nrf24 (F**K BT)   
+2. **Sphere-hosting** - Webhosting (SOON) 
+
+---
+
+*"Ethics make hacking an art, not a crime"*
