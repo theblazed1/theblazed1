@@ -4,19 +4,16 @@
 *"Ethics make hacking an art, not a crime"*
 
 ---
-
-### 🔥 Quick Facts  
-- 🛠️ Self-taught developer specializing in web apps & security  
-- ☁️ Runs a hosting service  
-- ♻️ Converts "herbs" into code    
+- Self-taught developer specializing in web apps & security  
+- Runs a hosting service  
+- Converts "herbs" into code    
 
 ---
 
-### 🧰 Core Skills  
+### Core Skills  
 **Frontend**: .net, Bootstrap, Wordpress  
 **Backend**: c/c++, Python, php  
-**Security**: Pentesting, Vulnerability Research, Network Analysis  
-**DevOps**: Docker  
+**Security**: Pentesting, Vulnerability Research, Network Analysis    
 
 ---
 
