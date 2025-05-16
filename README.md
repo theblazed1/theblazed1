@@ -1,4 +1,4 @@
-# 👨💻 The Blazed One
+# 💻 The Blazed One
 `19 • Gray Hat Hacker • Full-Stack Developer`  
 
 *"Ethics make hacking an art, not a crime"*
